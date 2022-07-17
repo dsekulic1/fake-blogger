@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 A small fake blogger application that demonstrates the work of Redux in React.js
 
 ## Available Scripts
